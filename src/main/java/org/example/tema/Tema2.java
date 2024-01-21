@@ -1,6 +1,6 @@
 package org.example.tema;
 
-public class Tema {
+public class Tema2 {
 
 
     /*public static void exercitiul1() {

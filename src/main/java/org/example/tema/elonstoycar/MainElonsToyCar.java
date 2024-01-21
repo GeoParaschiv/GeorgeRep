@@ -14,10 +14,10 @@ public class MainElonsToyCar {
 
 
         //Task 6
-        /*for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 100; i++) {
             car.drive();
         }
         System.out.println(car.distanceDisplay());
-        System.out.println(car.batteryDisplay());*/
+        System.out.println(car.batteryDisplay());
     }
 }
