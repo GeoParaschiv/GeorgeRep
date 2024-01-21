@@ -1,4 +1,4 @@
-package org.example.oop.lasagnia;
+package org.example.tema.lasagnia;
 
 public class Lasagna {
     public int expectedMinutesInOven() {

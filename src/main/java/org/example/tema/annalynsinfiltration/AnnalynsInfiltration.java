@@ -1,4 +1,4 @@
-package org.example.oop.annalynsinfiltration;
+package org.example.tema.annalynsinfiltration;
 
 public class AnnalynsInfiltration {
     public static boolean canFastAttack(boolean knightIsAwake) {

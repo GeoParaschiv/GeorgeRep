@@ -1,4 +1,4 @@
-package org.example.oop.lasagnia;
+package org.example.tema.lasagnia;
 
 public class Main {
     public static void main(String[] args) {
